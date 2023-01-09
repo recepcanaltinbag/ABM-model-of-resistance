@@ -32,7 +32,7 @@ In the 'mai.py' line 148 can be uncommented if it is wanted to increase of the a
 
 When it is runned, the browser will be opened:
 
-<img src="https://github.com/recepcanaltinbag/ABM-model-of-resistance/blob/main/example.png" width="500" />
+<img src="https://github.com/recepcanaltinbag/ABM-model-of-resistance/blob/main/example.png" width="750" />
 
 It can be runned with different frame rate and steps. 
 
